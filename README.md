@@ -11,11 +11,7 @@ Multi-signature transactions are accommodated under-the-hood about 80%, and will
 
 **Armory has no independent networking components built in.** Instead, it relies on on the Satoshi client to securely connect to peers, validate blockchain data, and broadcast transactions for us.  Although it was initially planned to cut the umbilical cord to the Satoshi client and implement independent networking, it has turned out to be an inconvenience worth having. Reimplementing all the networking code would be fraught with bugs, security holes, and possible blockchain forking.  The reliance on Bitcoin-Qt right now is actually making Armory more secure!
 
-##Donations
 
-Please take a moment to donate! 1ArmoryXcfq7TnCSuZa9fQjRYwJ4bkRKfv
-
-![bitcoin:1ArmoryXcfq7TnCSuZa9fQjRYwJ4bkRKfv][Donation Image]
 
 ##Building Armory From Source
 
@@ -65,15 +61,6 @@ Armory contains over 25,000 lines of code, between the C++ and python libraries.
 * C++ -   [BlockUtilsTest.cpp](cppForSwig/BlockUtilsTest.cpp)
 * Python -   [Unit Tests](pytest/), [sample_armory_code.py](extras/sample_armory_code.py)
 
-
-##License
-
-Distributed under the GNU Affero General Public License (AGPL v3)  
-See [LICENSE file](LICENSE) or [here][License]
-
-##Copyright
-
-Copyright (C) 2011-2015, Armory Technologies, Inc.
 
 
 [Armory Build Instructions]: https://bitcoinarmory.com/building-from-source
