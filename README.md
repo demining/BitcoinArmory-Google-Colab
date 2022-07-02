@@ -87,3 +87,10 @@ Copyright (C) 2011-2015, Armory Technologies, Inc.
 [Windows Py2Exe Download]:  http://www.py2exe.org/
 [License]: http://www.gnu.org/licenses/agpl.html
 [Donation Image]: https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=bitcoin:1ArmoryXcfq7TnCSuZa9fQjRYwJ4bkRKfv?&label=Armory+Donation
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
